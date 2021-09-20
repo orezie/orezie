@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Ismail
+- 👋 Hi, I’m @Orezie
 - 👀 I’m interested in Bash scripting and Python
 - 🌱 I’m currently learning Bash and Python
 - 💞️ I’m looking to collaborate on Bash and Python
